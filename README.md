@@ -9,11 +9,11 @@ BeeWare is an open-source project for creating native apps in Python. It is a co
 Step 1: Install BeeWare
 Install the BeeWare toolchain from the command line:
 
-	  pip install beeware
-
- 	  or
+	pip install beeware
+	
+	or
   
-    https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
+  	https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
 
 Step 2: Create your app
 You can create a new BeeWare project using the following command:
