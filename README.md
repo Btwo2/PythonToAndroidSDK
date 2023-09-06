@@ -63,7 +63,7 @@ Upload your code to the notebook and follow the thread until command "!yes | bui
 
 Step 4: Customize the Buildozer spec file
 Edit the generated buildozer.spec file to configure the app (like app name, package name, etc.). That's really important for android packaging
-All the librarys must be included
+All the libraries must be included
 
 	# Some tips
  	
